@@ -4,8 +4,8 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Tipo A
-  - Tipo B
+  - TipoA
+  - TipoB
   layers:
   - Default
   - TransparentFX
